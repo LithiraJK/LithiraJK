@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Java+Developer;UI/UX+Designer;Full+Stack+Web+Developer&font=Fira%20Code&center=true&color=00FFFE&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-## 🚀 About Me
+### 🚀 About Me
 
 <p align="start">
   💻 I'm a passionate software engineering student at the Institute of Software Engineering (IJSE)<br>
@@ -23,11 +23,11 @@
 
 ---
 
-### 🔥 Current Status (October 2025)
+### 🔥 Current Status (2025)
 - 🎯 **Active Learning**: Advanced API Development & Modern Web Technologies
-- 💼 **Project Focus**: Full-Stack Web Applications & Interactive Game Development  
-- 📚 **Academic Progress**: Completing advanced coursework at IJSE
-- 🌱 **Growing Skills**: React, TypeScript, MongoDB, Tailwind CSS, API Development
+- 💼 **Project Focus**: Full-Stack Web Applications & Interactive Mobile App Development  
+- 📚 **Academic Progress**: Completing Graduate Diploma in Software Engineering at IJSE
+- 🌱 **Growing Skills**: React, TypeScript, MongoDB, Tailwind CSS, Springboot, API Development
 
 ---
 
@@ -89,12 +89,6 @@ Tourism website showcasing Sri Lankan destinations with Firebase deployment. Bui
 
 #### 📝 [Complaint Management System](https://github.com/LithiraJK/complaint-managment-system-jsp)
 Enterprise-level complaint tracking system developed using JSP and Java. Features user authentication and comprehensive complaint lifecycle management.
-
-#### 🎮 [Interactive Canvas Game](https://github.com/LithiraJK/ITS1119-Assignment-09)
-Engaging browser-based game built with HTML5 Canvas API and JavaScript. Demonstrates advanced game mechanics, collision detection, and dynamic gameplay.
-
-#### 🛒 [E-Commerce Assignment Series](https://github.com/LithiraJK/ITS1119-Assignment-08)
-Comprehensive e-commerce simulation with customer management, inventory tracking, and order processing. Showcases database design and business logic implementation.
 
 #### 🎯 [My Portfolio Website](https://my-portfolio-website-2025.web.app)
 Personal portfolio showcasing projects, skills, and professional journey. Deployed on Firebase with modern design and responsive layout.
