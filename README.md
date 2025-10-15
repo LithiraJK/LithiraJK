@@ -1,15 +1,19 @@
 <!-- Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="100" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LithiraJK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <h1 align="center">Hi there, I'm Lithira Jayanaka 👋</h1>
 <p align="center">
   💻 Software Engineering Student at IJSE<br>
   🌍 Based in Sri Lanka<br>
-  📫 Reach me at: kariyawasamlithira2@gmail.com<br>
-  🚀 Currently focused on Full-Stack Development & Game Programming
+  📫 Reach me at : <a href="mailto:kariyawasamlithira2@gmail.com"> kariyawasamlithira2@gmail</a> <br>
+  🚀 Currently focused on Full-Stack Development
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LithiraJK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
