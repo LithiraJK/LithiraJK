@@ -1,31 +1,33 @@
 <!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8de9d5,100:32c4c0&height=200&section=header&text=Lithira%20Jayanaka&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=twinkling&desc=Aspiring%20Software%20Engineer&descAlignY=50" width="100%" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="100" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LithiraJK&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LithiraJK?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/LithiraJK?style=social" alt="stars" />
 </p>
-<h1 align="center">Hi there, I'm Lithira Jayanaka 👋</h1>
 <p align="center">
-  💻 Software Engineering Student at IJSE<br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Java+Developer;UI/UX+Designer;Full+Stack+Web+Developer&font=Fira%20Code&center=true&color=00FFFE&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+## 🚀 About Me
+
+<p align="start">
+  💻 I'm a passionate software engineering student at the Institute of Software Engineering (IJSE)<br>
   🌍 Based in Sri Lanka<br>
   📫 Reach me at : <a href="mailto:kariyawasamlithira2@gmail.com"> kariyawasamlithira2@gmail</a> <br>
   🚀 Currently focused on Full-Stack Development
 </p>
 
-
-
 ---
-
-### 👨‍💻 About Me
-
-I'm a passionate software engineering student at the Institute of Software Engineering (IJSE), Sri Lanka. With hands-on experience in full-stack development, I've been actively working on diverse projects ranging from web applications to interactive games. My expertise spans across frontend technologies, backend development, and database management. I'm constantly exploring new technologies and frameworks to enhance my skill set.
 
 ### 🔥 Current Status (October 2025)
 - 🎯 **Active Learning**: Advanced API Development & Modern Web Technologies
 - 💼 **Project Focus**: Full-Stack Web Applications & Interactive Game Development  
 - 📚 **Academic Progress**: Completing advanced coursework at IJSE
-- 🌱 **Growing Skills**: jQuery, JSP, Firebase Integration, Canvas API
+- 🌱 **Growing Skills**: React, TypeScript, MongoDB, Tailwind CSS, API Development
 
 ---
 
@@ -36,6 +38,8 @@ I'm a passionate software engineering student at the Institute of Software Engin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
 </p>
@@ -49,8 +53,15 @@ I'm a passionate software engineering student at the Institute of Software Engin
 #### Database & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+</p>
+
+#### Design & API Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
 </p>
 
 ---
@@ -92,12 +103,13 @@ Personal portfolio showcasing projects, skills, and professional journey. Deploy
 
 ### 🎯 Skills & Expertise
 
-- **Web Development**: Full-stack development with modern frameworks
-- **Game Development**: Canvas API, JavaScript game programming
-- **Database Design**: MySQL schema design and optimization
-- **Responsive Design**: Mobile-first approach with CSS Grid & Flexbox
+- **Frontend Development**: React, TypeScript, Tailwind CSS, responsive design
+- **Backend Development**: Node.js, Java, API development and integration
+- **Database Management**: MongoDB, MySQL schema design and optimization
+- **Design & Prototyping**: Figma for UI/UX design and wireframing
+- **API Testing**: Postman for API testing and documentation
 - **Version Control**: Git workflow and collaborative development
-- **Deployment**: Firebase hosting and web application deployment
+- **Deployment**: Firebase hosting and modern web application deployment
 
 ---
 
@@ -118,7 +130,5 @@ Personal portfolio showcasing projects, skills, and professional journey. Deploy
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8de9d5,100:32c4c0&height=100&section=footer" width="100%"/>
 </p>
-
-<p align="center">✨ Thank you for visiting my profile! Always open to collaboration and learning opportunities ✨</p>
