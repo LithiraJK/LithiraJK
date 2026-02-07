@@ -16,18 +16,18 @@
 
 <p align="start">
   💻 I'm a passionate software engineering student at the Institute of Software Engineering (IJSE)<br>
-  🌍 Based in Sri Lanka<br>
-  📫 Reach me at : <a href="mailto:kariyawasamlithira2@gmail.com"> kariyawasamlithira2@gmail</a> <br>
+  🌍 Based in Galle, Sri Lanka<br>
+  📫 Reach me at : <a href="mailto:lithira.jayanaka.official@gmail.com">lithira.jayanaka.official@gmail.com</a> <br> 
   🚀 Currently focused on Full-Stack Development
 </p>
 
 ---
 
-### 🔥 Current Status (2025)
+### 🔥 Current Status (2026)
 - 🎯 **Active Learning**: Advanced API Development & Modern Web Technologies
 - 💼 **Project Focus**: Full-Stack Web Applications & Interactive Mobile App Development  
 - 📚 **Academic Progress**: Completing Graduate Diploma in Software Engineering at IJSE
-- 🌱 **Growing Skills**: React, TypeScript, MongoDB, Tailwind CSS, Springboot, API Development
+- 🌱 **Growing Skills**: React, React Native, TypeScript, MongoDB, Tailwind CSS, Springboot, API Development
 
 ---
 
@@ -42,12 +42,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" /> <img
+  
 </p>
 
 #### Backend Development
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" />
 </p>
 
 #### Database & Tools
@@ -68,14 +72,14 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LithiraJK&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LithiraJK&layout=compact&theme=tokyonight" width="47%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LithiraJK&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LithiraJK&layout=compact&theme=tokyonight" width="38%" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LithiraJK&theme=tokyonight" width="70%" />
-</p>
+</div>
 
 ---
 
@@ -116,7 +120,7 @@ Personal portfolio showcasing projects, skills, and professional journey. Deploy
   <a href="https://my-portfolio-website-2025.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:kariyawasamlithira2@gmail.com">
+  <a href="mailto:lithira.jayanaka.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
