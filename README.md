@@ -14,20 +14,23 @@
 
 ### 🚀 About Me
 
-<p align="start">
-  💻 I'm a passionate software engineering student at the Institute of Software Engineering (IJSE)<br>
-  🌍 Based in Galle, Sri Lanka<br>
-  📫 Reach me at : <a href="mailto:lithira.jayanaka.official@gmail.com">lithira.jayanaka.official@gmail.com</a> <br> 
-  🚀 Currently focused on Full-Stack Development
-</p>
+💻 Passionate Full Stack Developer and Software Engineering Undergraduate at IJSE.
+
+🚀 I build modern web and mobile applications using the MERN stack, Next.js, NestJS, Spring Boot, and React Native.
+
+🌍 Based in Sri Lanka
+
+🌱 Currently exploring scalable backend architecture, cloud deployment, testing, and modern developer tooling.
 
 ---
 
-### 🔥 Current Status (2026)
-- 🎯 **Active Learning**: Advanced API Development & Modern Web Technologies
-- 💼 **Project Focus**: Full-Stack Web Applications & Interactive Mobile App Development  
-- 📚 **Academic Progress**: Completing Graduate Diploma in Software Engineering at IJSE
-- 🌱 **Growing Skills**: React, React Native, TypeScript, MongoDB, Tailwind CSS, Springboot, API Development
+### 🔥 Current Status
+
+- 🚀 Building production-ready Full Stack Applications
+- 💼 Working with Next.js, NestJS, Spring Boot, MERN Stack and React Native
+- 🧪 Learning Playwright for End-to-End Testing
+- 📖 Exploring PostgreSQL, Prisma ORM and Swagger API Documentation
+- ⚡ Improving software architecture and performance
 
 ---
 
@@ -42,7 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" /> <img
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
   
 </p>
 
@@ -52,6 +57,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
 #### Database & Tools
@@ -60,12 +68,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
 </p>
 
-#### Design & API Tools
+#### DevOps & Tools
+
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
 </p>
 
 ---
@@ -83,31 +99,46 @@
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 🏨 [Crystal Sands Hotel Website](https://github.com/LithiraJK/Crystal-Sands-Hotel-Website)
-A modern, responsive hotel website with interactive navigation and smooth scrolling effects. Features dynamic navbar behavior and contemporary design principles.
+#### 🚀 Ayubovan
 
-#### 🌴 [CeylonXplorer](https://github.com/LithiraJK/ceylonxplorer-htmlcss) 
-Tourism website showcasing Sri Lankan destinations with Firebase deployment. Built with responsive HTML/CSS for optimal user experience across devices.
-
-#### 📝 [Complaint Management System](https://github.com/LithiraJK/complaint-managment-system-jsp)
-Enterprise-level complaint tracking system developed using JSP and Java. Features user authentication and comprehensive complaint lifecycle management.
-
-#### 🎯 [My Portfolio Website](https://my-portfolio-website-2025.web.app)
-Personal portfolio showcasing projects, skills, and professional journey. Deployed on Firebase with modern design and responsive layout.
+Business Directory platform built with React, Next.js ecosystem and modern frontend technologies.
 
 ---
 
-### 🎯 Skills & Expertise
+#### 🚀 WePrint POS
 
-- **Frontend Development**: React, TypeScript, Tailwind CSS, responsive design
-- **Backend Development**: Node.js, Java, API development and integration
-- **Database Management**: MongoDB, MySQL schema design and optimization
-- **Design & Prototyping**: Figma for UI/UX design and wireframing
-- **API Testing**: Postman for API testing and documentation
-- **Version Control**: Git workflow and collaborative development
-- **Deployment**: Firebase hosting and modern web application deployment
+Modern POS System supporting advance payments, customer management and invoice generation.
+
+---
+
+#### ✈️ TripVisito
+
+A modern travel and tourism platform built with **Next.js**, **NestJS**, **PostgreSQL**, and **Prisma**. Features secure authentication, business listings, destination discovery, search and filtering, REST APIs, Swagger documentation, and a scalable full-stack architecture.
+
+---
+
+#### 📱 HabitFlux
+
+A modern habit tracking mobile app built with **React Native + Expo** to help users build consistency, track progress, and stay productive.
+
+---
+
+### 🎯 Skills
+
+- ⚛️ React & Next.js Development
+- 📱 React Native Mobile Apps
+- 🟢 Node.js & NestJS Backend Development
+- ☕ Spring Boot REST API Development
+- 🗄 PostgreSQL, MySQL & MongoDB
+- ⚡ Prisma ORM
+- 📄 Swagger API Documentation
+- 🧪 Playwright End-to-End Testing
+- 🔥 REST API Design
+- 🚀 Firebase & Vercel Deployment
+- 🐳 Docker Basics
+- 🌿 Git & GitHub Workflow
 
 ---
 
@@ -117,7 +148,7 @@ Personal portfolio showcasing projects, skills, and professional journey. Deploy
   <a href="https://linkedin.com/in/lithira-jayanaka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://my-portfolio-website-2025.web.app" target="_blank">
+  <a href="https://lithira-jayanaka.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:lithira.jayanaka.official@gmail.com">
